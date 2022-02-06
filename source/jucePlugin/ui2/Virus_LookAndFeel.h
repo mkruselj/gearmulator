@@ -17,6 +17,8 @@ constexpr auto kPanelHeight = 1152;
 
 constexpr auto comboBoxXMargin = 5;
 
+using namespace juce;
+
 namespace Virus
 {
     const juce::Font getCustomFont();
